@@ -1,15 +1,10 @@
 # 👋 Hello!
 
-You may be looking for my active GitHub profile.
+This is my **secondary GitHub profile**, mainly used for practicing team-based development workflows.
 
-➡️ **My GitHub username has changed from `tajimz` to `trtajim`.**
-
-### Please visit:
+**For my active projects, contributions, and future work, please visit my main profile:**
 
 **https://github.com/trtajim**
 
-All active projects, repositories, contributions, and future work will be published there.
+Thanks!
 
-Thank you for visiting!
-
-— Tajim
